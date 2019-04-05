@@ -1,0 +1,29 @@
+{
+  "name": "react-slider-v01",
+  "version": "1.0.0",
+  "description": "First draft for a smooth react slider.",
+  "keywords": ["javascript", "react", "slider", "npm"],
+  "main": "src/index.js",
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "1.2.15",
+    "@fortawesome/react-fontawesome": "0.1.4",
+    "bootstrap": "4.3.1",
+    "font-awesome": "4.7.0",
+    "jest": "24.4.0",
+    "jquery": "3.3.1",
+    "popper.js": "1.14.7",
+    "react": "16.8.3",
+    "react-dom": "16.8.3",
+    "react-scripts": "2.0.3",
+    "react-test-renderer": "16.8.4",
+    "react-testing-library": "6.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"]
+}
