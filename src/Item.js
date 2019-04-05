@@ -2,6 +2,9 @@ import React from "react";
 import "./item.scss";
 export default function Item(props) {
   return (
+    
+    
+    
     <div className="item-wrapper">
       <div
         style={{
